@@ -1,0 +1,3 @@
+inkscape0484_sage415
+- Impementation of a dynamic list to set faceplate parameters (27/03/2015)
+- Added keydown event to script animation tab (22/04/2015)
